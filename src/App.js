@@ -1,5 +1,7 @@
 import React from "react";
 
-const App = () => <h1>Facebook Feed</h1>;
+import Feed from "./app/pages/Feed";
+
+const App = () => <Feed />;
 
 export default App;
