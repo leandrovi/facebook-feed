@@ -34,7 +34,7 @@ Desenvolvido em conjunto com o bootcamp da [Rocketsheat](https://github.com/Rock
 
 ![Facebook](.github/fb-feed.png)
 
-O resultado final pode ser visto [nesse link](https://suspicious-noyce-7db802.netlify.com/).
+O resultado final pode ser visto [nesse link](https://nifty-murdock-ca3cad.netlify.com/).
 
 Dica: para quem é fã de friends, tem uma surpresa bacana no fim da página!
 
