@@ -21,7 +21,7 @@ const posts = [
           avatar: "https://avatars3.githubusercontent.com/u/14251143?v=4"
         },
         content:
-          "You can check the Rocketseat channel in youtube: https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg.\n\nThey have pretty nice stuff there!"
+          "You can check the Rocketseat channel in youtube. They have pretty nice stuff there!"
       },
       {
         id: 2,
